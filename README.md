@@ -13,6 +13,7 @@
 
 Processing file: D:\go\src\.go\ETFS--dataset\ETFS--dataset\ETFs\aadr.us.csv
 Finished processing: D:\go\src\.go\ETFS--dataset\ETFS--dataset\ETFs\aadr.us.csv
+
 Processing file: D:\go\src\.go\ETFS--dataset\ETFS--dataset\ETFs\wdti.us.csv
 Finished processing: D:\go\src\.go\ETFS--dataset\ETFS--dataset\ETFs\wdti.us.csv
 
